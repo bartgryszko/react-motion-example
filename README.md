@@ -5,17 +5,17 @@ Example of how to use `TransitionSpring` from [react-motion](https://github.com/
 based on its demo. Also uses [redux](https://github.com/gaearon/redux) and [immutable-js](https://github.com/facebook/immutable-js).
 Hot-reloadable.
 
-[ONLINE DEMO](#todo)
+[ONLINE DEMO](https://cdn.rawgit.com/bgryszko/react-motion-example/master/dist/index.html)
 
 ### Usage
 
-1.
 ```
 npm install
 npm start
 open http://localhost:3000
 ```
 
-2. Click to add more and more circles.
+Now you can click to add more and more circles.
 
 ### Screenshot
+![Screenshot](https://cdn.rawgit.com/bgryszko/react-motion-example/master/screenshot.png)
